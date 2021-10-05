@@ -1,0 +1,36 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+.cityInfo {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.locSearch {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.weatherDays {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.weatherInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
